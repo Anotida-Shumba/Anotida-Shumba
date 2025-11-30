@@ -1,7 +1,5 @@
-## Hi there 👋
-I'm ano and I'm super passionate about making games.
-I am working towards my dream of being the pirate king of the gamedev world
-Check out some of my stuff!
+## Hey😁
+# let's make some games!
 
 <!--
 **Anotida-Shumba/Anotida-Shumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
