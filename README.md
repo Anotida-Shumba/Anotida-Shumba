@@ -1,5 +1,5 @@
-## Hey😁
-# let's make some games!
+## We all have a story to tell
+# code is just the medium
 
 <!--
 **Anotida-Shumba/Anotida-Shumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
